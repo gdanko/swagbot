@@ -1,0 +1,4 @@
+https://github.com/BurntSushi/nflgame/tree/master/nflgame
+http://www.nfl.com/liveupdate/scorestrip/postseason/ss.xml
+http://www.nfl.com/liveupdate/scorestrip/ss.xml
+http://www.nfl.com/liveupdate/game-center/2017123111/2017123111_gtd.json

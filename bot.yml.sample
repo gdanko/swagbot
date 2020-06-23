@@ -1,0 +1,28 @@
+bot_root: &BOT_ROOT "/path/to/swagbot-slack"
+root: *BOT_ROOT
+prefix: "!"
+encryption_key: "xxxx"
+session_timeout: 3600
+default_user_passwd: "xxxx"
+bot_owner: "xxxx"
+slack_endpoint: "https://intuit-sandbox.slack.com/api"
+slack_token: "xxxx"
+private_key: "/path/to/bot-private.pem"
+public_key: "/path/to/bot-public.pem"
+database:
+  name: "/path/to/bot.db"
+keys:
+  wordnik: "xxxx"
+  bitly: "xxxx"
+  geonames: "xxxx"
+  wavefront:
+    # Preprod
+    endpoint: "https://try.wavefront.com/api/v2"
+    key: "xxxx"
+    # Prod
+    #endpoint: https://intuit.wavefront.com/api/v2"
+    #key: "xxxx"
+logins:
+  servicenow:
+    username: "xxxx"
+    password: "xxxx"

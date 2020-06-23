@@ -1,0 +1,88 @@
+Afrikaans,Hallo
+Albanian,Përshëndetje
+Amharic,ሰላም
+Armenian,Բարեւ
+Azerbaljani,Salam
+Basque,Kaixo
+Belarusian,добры дзень
+Bengali,হ্যালো
+Bosnian,Zdravo
+Bulgarian,Здравей
+Catalan,Hola
+Chichewa,Moni
+Chinese,你好
+Corsican,Bonghjornu
+Croation,Zdravo
+Czech,Ahoj
+Danish,Hej
+Dutch,Hallo
+English,Hello
+Esperanto,Saluton
+Esotonian,Tere
+Filipino,Kamusta
+Finnish,Hei
+French,Bonjour
+Frisian,Hoi
+Galacian,Ola
+Georgian,გაუმარჯოს
+German,Hallo
+Greek,Γειά σου
+Gujarati,હેલો
+Haitian Creole,Alo
+Hawaiian,Aloha
+Hindi,नमस्कार
+Hmong,Nyob zoo
+Hungarian,Szervusz
+Icelandic,Halló
+Igbo,Nnọọ
+Indonesian,Halo
+Irish,Dia dhuit
+Italian,Ciao
+Japanese,こんにちは
+Kannada,ಹಲೋ
+Kazakh,Сәлеметсіз бе
+Khmer,ជំរាបសួរ
+Korean,안녕하세요
+Kyrgyz,Салам
+Laotian,ສະບາຍດີ
+Latin,Salve
+Latvian,Sveiki
+Lithuanian,Sveiki
+Macedonian,Здраво
+Malagasy,Salama
+Malayalam,ഹലോ
+Maltese,Bongu
+Marathi,हॅलो
+Mongolian,Сайн уу
+Myanmar (Burmese),ဟယ်လို
+Nepali,नमस्कार
+Norwegian,Hallo
+Polish,cześć
+Portuguese,Olá
+Punjabi,ਸਤ ਸ੍ਰੀ ਅਕਾਲ
+Romanian,buna
+Russian,Здравствуйте
+Samoan,talofa
+Scots Gaelic,Halò
+Serbian,Здраво
+Sesotho,Lumela
+Shona,Mhoro
+Sinhala,හෙලෝ
+Slovak,Ahoj
+Slovenian,zdravo
+Spanish,Hola
+Sudanese,Halo
+Swahili,Habari
+Swedish,Hallå
+Tajik,Салом
+Tamil,வணக்கம்
+Telugu,హలో
+Thai,สวัสดี
+Turkish,Merhaba
+Ukranian,Здравствуйте
+Uzbek,Salom
+Vietnamese,xin chào
+Welsh,Helo
+Xhosa,Mholo
+Yoruba,Pẹlẹ o
+Zula,Sawubona

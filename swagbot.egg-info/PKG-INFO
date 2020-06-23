@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: swagbot
+Version: 0.1.4
+Summary: A powerful and flexible Slack bot
+Home-page: https://github.intuit.com/gdanko/swagbot
+Author: Gary Danko
+Author-email: gdanko@gmail.com
+License: GPLv3
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: POSIX :: Other
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5

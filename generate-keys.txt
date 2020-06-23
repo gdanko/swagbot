@@ -1,0 +1,2 @@
+openssl genrsa -des3 -out bot-private.pem 4096
+openssl rsa -in bot-private.pem -outform PEM -pubout -out bot-public.pem

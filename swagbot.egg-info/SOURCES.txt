@@ -1,0 +1,13 @@
+setup.py
+swagbot/bot.py
+swagbot/core.py
+swagbot/database.py
+swagbot/exception.py
+swagbot/request.py
+swagbot/utils.py
+swagbot.egg-info/PKG-INFO
+swagbot.egg-info/SOURCES.txt
+swagbot.egg-info/dependency_links.txt
+swagbot.egg-info/requires.txt
+swagbot.egg-info/top_level.txt
+swagbot/plugins/core.py
